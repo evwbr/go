@@ -8,23 +8,88 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 20 Mar 2026 20:14:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 21:15:26 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Ronaldo Caiado mantém pré-candidatura à Presidência e rejeita ser vice de Ratinho Júnior]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_f83e1a8ccd69eb9b10bbcde643a196bdb00e68a4/</link>
+<title><![CDATA[Estudo indica que inteligência artificial pode ampliar previsão de inundações]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_e4648dd99c2664ba2941c49e2d9a912579758e46/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 20 Mar 2026 19:17:50 GMT</pubDate>
+<pubDate>Fri, 20 Mar 2026 21:14:23 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:f83e1a8ccd69eb9b10bbcde643a196bdb00e68a4]]></guid>
-<description><![CDATA[O governador de Goiás, Ronaldo Caiado, recusou a proposta de compor como vice na chapa presidencial do governador do Paraná, Ratinho Júnior.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:e4648dd99c2664ba2941c49e2d9a912579758e46]]></guid>
+<description><![CDATA[Modelos de inteligência artificial podem ajudar a prever a vazão de rios e ampliar alertas para inundações em regiões com poucos dados hidrológicos.]]></description>
 <content:encoded><![CDATA[
-<p>O presidente nacional do PSD, Gilberto Kassab, tem intensificado as articulações para lançar uma chapa pura do partido, com Ratinho Júnior como candidato à Presidência da República em 2026.</p>
-<p>Dentro dessa estratégia, Kassab tentou atrair Ronaldo Caiado para a composição como vice, mas o governador goiano decidiu manter sua pré-candidatura ao Planalto.</p>
-<p>Fontes próximas afirmam que Caiado sinalizou claramente que não pretende abrir mão do projeto nacional e que a chance de aceitar a posição de vice é considerada zero.</p>
-<p>O nome de Caiado é avaliado como um dos principais ativos eleitorais da direita e é visto como estratégico para diversas composições em 2026, podendo concorrer à Presidência, Senado, Câmara dos Deputados ou ocupar o Ministério da Justiça em um eventual governo de Flávio Bolsonaro.</p>
-<p>No entorno do governador, a avaliação é que seu projeto político está consolidado e não inclui uma posição secundária na disputa presidencial.</p>
-<p>Apesar da rejeição, Kassab mantém o diálogo e tenta sustentar a construção da chapa até o anúncio oficial da candidatura de Ratinho, previsto para os próximos dias.</p>
+<p>A pesquisa foi conduzida por cientistas da Universidade do Texas em Austin e da Hydrotify LLC, e publicada na revista Machine Learning: Earth.</p>
+<p>A dificuldade de prever enchentes é maior em áreas sem medições contínuas de rios, registros históricos e redes de monitoramento estruturadas.</p>
+<p>A equipe testou modelos chamados time-series foundation models, treinados com grandes volumes de dados temporais de áreas como clima, energia e transporte, usando dados de mais de 500 bacias hidrográficas nos Estados Unidos.</p>
+<p>O modelo Sundial apresentou desempenho próximo ao de um modelo LSTM treinado com décadas de registros de vazão dos rios, com melhores resultados em bacias com comportamento sazonal definido, como as influenciadas pelo derretimento de neve.</p>
+<p>Os autores avaliam que essa ferramenta pode reforçar a prevenção de enchentes, o planejamento para secas e a gestão de recursos hídricos.</p>
+<p>Alexander Sun, um dos autores, destacou que muitas regiões não possuem séries históricas longas para métodos tradicionais e que a IA pode preencher essa lacuna, mas que a tecnologia precisa evoluir para sistemas fluviais mais complexos.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Pesquisa goiana em nanotecnologia promete combater fungo que pode destruir até 90% das plantações de soja]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_3e4bfc65d861fb5dbf4d0c14864eb741f4c0acd7/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 20 Mar 2026 21:12:31 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:3e4bfc65d861fb5dbf4d0c14864eb741f4c0acd7]]></guid>
+<description><![CDATA[Nanotubos de carbono desenvolvidos em Goiás mostram resultados promissores no combate à ferrugem asiática, fungo que pode causar perdas de até 90% na soja.]]></description>
+<content:encoded><![CDATA[
+<p>O Brasil produz cerca de 170 milhões de toneladas de soja em uma única safra, com Goiás destacando-se como um dos estados mais relevantes, apresentando um valor bruto aproximado de R$ 38,9 bilhões na produção agrícola.</p>
+<p>A ferrugem asiática, fungo que provoca manchas avermelhadas nas folhas e pode comprometer mais de 90% da plantação, é uma das principais ameaças à cultura da soja. O fungo se espalha pelo ar e pode atingir o caule, causando queda de produção e até a morte da planta.</p>
+<p>O controle da doença envolve o cadastro das áreas produtivas junto à Agrodefesa e a adoção do vazio sanitário, período de cerca de três meses em que não pode haver cultivo de soja para evitar a contaminação por restos culturais que servem de hospedeiros para o fungo.</p>
+<p>Pesquisadores da Universidade de Rio Verde desenvolvem nanotubos de carbono que aderem às folhas e liberam compostos de forma gradual, com o objetivo de encapsular fungicidas para aumentar a durabilidade e eficiência do controle da ferrugem.</p>
+<p>Os testes em laboratório mostraram controle efetivo do fungo, enquanto os testes em campo ainda estão em andamento, apresentando resultados iniciais superiores aos métodos convencionais. A expectativa é que a tecnologia possa ser comercializada em alguns anos, após cerca de sete anos de pesquisa.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Mercado imobiliário de Aparecida de Goiânia registra forte valorização e escassez de condomínios horizontais]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_4f5ecdb53a61d003b374bde2f5ee33d78d7c34e8/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 20 Mar 2026 20:58:31 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:4f5ecdb53a61d003b374bde2f5ee33d78d7c34e8]]></guid>
+<description><![CDATA[Em dez anos, Aparecida de Goiânia lançou 11 condomínios horizontais, todos vendidos, e enfrenta estoque praticamente zerado desse tipo de imóvel.]]></description>
+<content:encoded><![CDATA[
+<p>O mercado imobiliário de Aparecida de Goiânia passa por uma fase de valorização intensa e escassez de imóveis, especialmente condomínios horizontais. Em dez anos, foram lançados 11 empreendimentos desse tipo na cidade, todos já vendidos, deixando o estoque praticamente zerado.</p>
+<p>O crescimento econômico da cidade é apontado como principal fator para a alta demanda. Desde 2008, o número de CNPJs ativos saltou de cerca de 5 mil para aproximadamente 100 mil, tornando Aparecida o O amadurecimento da zona industrial e logística impulsionou a renda e a busca por moradias de qualidade.</p>
+<p>A presença de universidades, incluindo duas faculdades de medicina, fortalece a dinâmica urbana e atrai novos moradores. Empreendimentos localizados em áreas centrais, com infraestrutura consolidada, comércio e serviços, apresentam maior valorização devido à economia de tempo e custo no deslocamento.</p>
+<p>O aumento do PIB local impactou diretamente os preços dos imóveis, que passaram a atender uma população com maior renda e busca por qualidade de vida. Inicialmente, a oferta concentrou-se em condomínios horizontais, mas já há início de verticalização na cidade.</p>
+<p>O público comprador é diversificado, com forte presença de famílias jovens e moradores vindos de Goiânia, que representam entre 50% e 60% dos compradores. Investidores também demonstram interesse, considerando que Aparecida tem 600 mil habitantes e é a 37ª cidade mais populosa do Brasil.</p>
+<p>Apesar dos lançamentos, não há risco de saturação, pois todos os projetos foram vendidos e ainda há carência de loteamentos fechados e apartamentos residenciais. Projetos futuros, como o Cidade do Amanhã, incluirão loteamentos, residências verticais, salas comerciais, hotel, comércio e serviços.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Polícia Civil prende irmãs suspeitas de furtar celulares em shopping de Luziânia]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_af13827e9e07d8d0a91d3314f0dff4772705d7a5/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 20 Mar 2026 20:54:15 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:af13827e9e07d8d0a91d3314f0dff4772705d7a5]]></guid>
+<description><![CDATA[Duas irmãs foram presas em flagrante por furto qualificado e receptação em Luziânia nesta quinta-feira.]]></description>
+<content:encoded><![CDATA[
+<p>A Polícia Civil de Goiás prendeu Mariana Mayra de Souza Alves, de 27 anos, e Carla Letícia de Souza Alves, de 30, durante ação do Grupo Especial de Investigações Criminais (GEIC) da 5ª Delegacia Regional de Polícia.</p>
+<p>As irmãs são investigadas por furtos reiterados em estabelecimentos comerciais, agindo de forma coordenada. Em um dos casos, câmeras de segurança registraram uma delas distraindo a funcionária enquanto a outra furtava um celular da vitrine em poucos segundos.</p>
+<p>Durante diligências na residência das suspeitas em Novo Gama, foram encontrados o aparelho Samsung S25 Ultra furtado no shopping de Luziânia e um Motorola Moto G22, produto de furto ocorrido em Ceilândia, Distrito Federal, em 2025.</p>
+<p>Além dos celulares, foram apreendidos roupas e objetos usados na ação criminosa. A autoridade policial solicitou a prisão preventiva das irmãs, que possuem antecedentes criminais e já descumpriram medidas cautelares anteriormente.</p>
+<p>A divulgação da identidade das investigadas foi autorizada com base na Lei nº 13.869/2019 e na Portaria nº 537/2021 da DGPC-GO, visando o interesse público e a possível identificação de novas vítimas.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Goiânia se prepara para MotoGP 2026 com alta no turismo e opções culturais]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_576e2af0db200778e83a4cdf8fcbeeb0c11b81d3/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 20 Mar 2026 20:41:13 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:576e2af0db200778e83a4cdf8fcbeeb0c11b81d3]]></guid>
+<description><![CDATA[Goiânia recebe o MotoGP 2026 entre 20 e 22 de março, com expectativa de aumento no turismo e movimento nos mercados municipais.]]></description>
+<content:encoded><![CDATA[
+<p>O MotoGP 2026, etapa brasileira do Campeonato Mundial de Motovelocidade, será realizado no Autódromo Internacional Ayrton Senna, em Goiânia, entre os dias 20 e 22 de março. A cidade se prepara para receber milhares de visitantes nacionais e internacionais durante o evento.</p>
+<p>Os mercados municipais da capital devem registrar aumento de até 300% no movimento durante o período do MotoGP. Esses espaços oferecem culinária típica, produtos do Cerrado, artesanato, bebidas, roupas e atividades culturais, atraindo turistas interessados na cultura goiana.</p>
+<p>A rede hoteleira de Goiânia deve atingir uma ocupação média próxima de 90% no fim de semana da corrida,.</p>
+<p>A procura por passagens aéreas para Goiânia cresceu 250% em relação ao mesmo período do ano anterior. Do total de compras, 56% são de turistas internacionais, com Espanha, Itália, Estados Unidos e Reino Unido como principais países de origem. Entre os turistas brasileiros, São Paulo lidera, seguido pelo Rio de Janeiro e outros estados.</p>
+<p>Os mercados municipais da cidade funcionam em horários variados, com destaque para o Mercado Central, Mercado Popular da 74 Marília Mendonça, Mercado de Campinas, Mercado Pedro Ludovico, Mercado Vila Nova, Mercado Centro Oeste, Mercado Centro Comercial Popular e Mercado Aberto da Paranaíba, que oferecem opções de lazer, gastronomia e cultura durante o evento.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
