@@ -8,39 +8,22 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 05 Apr 2026 20:14:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 21:14:48 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Hospital em Goiás adota novo formato para alta de pacientes]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_8c05172fd61eb8c094b9a169b0bcf2309e0a18af/</link>
+<title><![CDATA[Estudantes da UFG desenvolvem plataforma de IA para apoiar prefeituras do Entorno do DF]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_4809fd936e34bbbce46415ab0019ddcfa72c17ed/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 05 Apr 2026 19:55:31 GMT</pubDate>
+<pubDate>Sun, 05 Apr 2026 20:25:15 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:8c05172fd61eb8c094b9a169b0bcf2309e0a18af]]></guid>
-<description><![CDATA[Hospital Estadual de Dermatologia Sanitária Colônia Santa Marta implementa 'Alta Humanizada' para melhorar o acolhimento no momento da alta.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:4809fd936e34bbbce46415ab0019ddcfa72c17ed]]></guid>
+<description><![CDATA[Em seis meses, alunos da UFG criaram a UrbanAI, ferramenta que cruza dados públicos para auxiliar decisões municipais.]]></description>
 <content:encoded><![CDATA[
-<p>O Hospital Estadual de Dermatologia Sanitária Colônia Santa Marta (HDS) adotou a ação 'Alta Humanizada', organizada pelo Serviço de Nutrição, que prioriza o acolhimento e o cuidado até os instantes finais da permanência do paciente na unidade.</p>
-<p>A iniciativa visa ampliar o entendimento de cuidado, considerando que ele não se limita ao tratamento clínico, mas também envolve a forma como o paciente encerra sua trajetória dentro do hospital.</p>
-<p>Como parte da ação, é oferecido um café da manhã diferenciado no dia da alta, com o objetivo de tornar a despedida mais confortável e menos impessoal, reforçando o vínculo entre pacientes e equipe e proporcionando uma experiência positiva após o período de internação.</p>
-<p>O projeto ocorre no momento em que o paciente retorna para casa, incluindo o café da manhã como um gesto simbólico de acolhimento e incentivo à recuperação fora do ambiente hospitalar.</p>
-<p>O HDS conta com uma Unidade de Cuidados Prolongados e Paliativos com dez leitos individuais, destinada a pacientes em condições clínicas estáveis que ainda necessitam de acompanhamento contínuo ou preparação para o retorno ao domicílio, com atendimento realizado por equipe multiprofissional focada no suporte clínico, emocional e social.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Darô Fernandes anuncia pré-candidatura a deputado estadual pelo Solidariedade]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_2339a3d7db0b7b1877afce5d1c822d5a0cdc2f78/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 05 Apr 2026 19:22:36 GMT</pubDate>
-<category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:2339a3d7db0b7b1877afce5d1c822d5a0cdc2f78]]></guid>
-<description><![CDATA[O advogado Darô Fernandes confirmou sua pré-candidatura à Assembleia Legislativa de Goiás nas eleições de 2026 pelo Solidariedade.]]></description>
-<content:encoded><![CDATA[
-<p>Darô Fernandes oficializou sua filiação ao Solidariedade após deixar o Mobiliza, partido ao qual era filiado desde 2024.</p>
-<p>A decisão de mudar de partido e disputar uma vaga na Alego foi tomada após articulações políticas e avaliação de viabilidade eleitoral.</p>
-<p>O pré-candidato destacou que a eleição será muito competitiva e que pretende discutir com a sociedade as mudanças necessárias na Assembleia Legislativa.</p>
-<p>Ele ressaltou que a experiência na eleição municipal de 2024, quando concorreu como vice-prefeito de Goiânia na chapa com Rogério Cruz, serviu de preparação para o novo desafio.</p>
-<p>Darô afirmou que lideranças políticas como Bruno Peixoto, Wagner Neto e Coronel Adailton influenciaram sua decisão de migrar para o Solidariedade.</p>
-<p>O pré-candidato confirmou apoio à reeleição do governador Daniel Vilela e informou que já está em articulação para construir outras parcerias durante a pré-campanha.</p>
+<p>A UrbanAI é uma plataforma digital movida à inteligência artificial criada por estudantes do campus de Cidade Ocidental da Universidade Federal de Goiás (UFG). O projeto nasceu do curso de Inteligência Artificial para Políticas Públicas e já está em uso no primeiro módulo econômico pela Prefeitura de Cidade Ocidental.</p>
+<p>A equipe é formada por Gabriel Eduardo, Dhiego Emmanuel de Souza Andrade, Leonardo Marianos dos Santos, Caio Rosa Santos e Maryanna Victoria, com conhecimentos em gestão pública, economia, análise de dados e desenvolvimento de software. A plataforma integra dados do IBGE por setor censitário e localização de equipamentos públicos em um mapa de satélite interativo.</p>
+<p>Com poucos cliques, gestores podem identificar bairros com maior concentração de crianças em idade escolar, demanda por atendimento médico ou falta de infraestrutura, como asfalto. O módulo econômico permite visualizar a distribuição de comércios por área, como alimentos, artesanato e salões de beleza, para direcionar investimentos municipais.</p>
+<p>O prefeito de Cidade Ocidental, Lulinha Viana, aprovou o uso de todos os módulos da UrbanAI. A equipe ressalta que a ferramenta oferece suporte técnico para decisões políticas, sem substituí-las. A plataforma é adaptável às necessidades específicas de cada município.</p>
+<p>Além dos módulos territoriais, a UrbanAI inclui um chatbot integrado ao WhatsApp para que moradores registrem problemas urbanos com fotos e geolocalização, facilitando a comunicação direta com gestores. Outro módulo em desenvolvimento enviará lembretes automáticos sobre vacinação e consultas médicas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
