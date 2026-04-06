@@ -8,22 +8,40 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 05 Apr 2026 21:14:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 11:14:54 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Estudantes da UFG desenvolvem plataforma de IA para apoiar prefeituras do Entorno do DF]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_4809fd936e34bbbce46415ab0019ddcfa72c17ed/</link>
+<title><![CDATA[Bombeiro é atacado por cães de rua próximo ao Serra Dourada em Goiânia]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_69083d484184f20a43225e4e5b78977e99ed634e/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 05 Apr 2026 20:25:15 GMT</pubDate>
+<pubDate>Mon, 06 Apr 2026 11:08:12 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:4809fd936e34bbbce46415ab0019ddcfa72c17ed]]></guid>
-<description><![CDATA[Em seis meses, alunos da UFG criaram a UrbanAI, ferramenta que cruza dados públicos para auxiliar decisões municipais.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:69083d484184f20a43225e4e5b78977e99ed634e]]></guid>
+<description><![CDATA[Um bombeiro militar foi atacado por cerca de cinco cães em situação de rua perto do Estádio Serra Dourada, em Goiânia.]]></description>
 <content:encoded><![CDATA[
-<p>A UrbanAI é uma plataforma digital movida à inteligência artificial criada por estudantes do campus de Cidade Ocidental da Universidade Federal de Goiás (UFG). O projeto nasceu do curso de Inteligência Artificial para Políticas Públicas e já está em uso no primeiro módulo econômico pela Prefeitura de Cidade Ocidental.</p>
-<p>A equipe é formada por Gabriel Eduardo, Dhiego Emmanuel de Souza Andrade, Leonardo Marianos dos Santos, Caio Rosa Santos e Maryanna Victoria, com conhecimentos em gestão pública, economia, análise de dados e desenvolvimento de software. A plataforma integra dados do IBGE por setor censitário e localização de equipamentos públicos em um mapa de satélite interativo.</p>
-<p>Com poucos cliques, gestores podem identificar bairros com maior concentração de crianças em idade escolar, demanda por atendimento médico ou falta de infraestrutura, como asfalto. O módulo econômico permite visualizar a distribuição de comércios por área, como alimentos, artesanato e salões de beleza, para direcionar investimentos municipais.</p>
-<p>O prefeito de Cidade Ocidental, Lulinha Viana, aprovou o uso de todos os módulos da UrbanAI. A equipe ressalta que a ferramenta oferece suporte técnico para decisões políticas, sem substituí-las. A plataforma é adaptável às necessidades específicas de cada município.</p>
-<p>Além dos módulos territoriais, a UrbanAI inclui um chatbot integrado ao WhatsApp para que moradores registrem problemas urbanos com fotos e geolocalização, facilitando a comunicação direta com gestores. Outro módulo em desenvolvimento enviará lembretes automáticos sobre vacinação e consultas médicas.</p>
+<p>O ataque ocorreu na tarde de domingo, 5, enquanto o bombeiro realizava atividades físicas regulamentares e estava uniformizado.</p>
+<p>Para se defender, o militar efetuou um disparo contra um dos cães, que não resistiu ao ferimento.</p>
+<p>O soldado sofreu escoriações e ferimentos contusos nas pernas, recebeu os primeiros socorros no quartel e foi encaminhado para a Unidade de Pronto Atendimento do Jardim Novo Mundo.</p>
+<p>Ele foi medicado e seguirá protocolos preventivos, incluindo medidas relacionadas à profilaxia da raiva.</p>
+<p>O Corpo de Bombeiros informou que ataques de cães naquela região têm sido frequentes, representando risco à população que frequenta o local para lazer e atividades físicas.</p>
+<p>A corporação ressaltou que o disparo ocorreu em legítima defesa, diante de risco iminente, e que o caso foi registrado para apuração.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Divisão na direita sobre vice de Flávio Bolsonaro entre Tereza Cristina e Romeu Zema]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_c894150c24bc250c9092ce8dc14c643fb0c7fb87/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 06 Apr 2026 11:05:02 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:c894150c24bc250c9092ce8dc14c643fb0c7fb87]]></guid>
+<description><![CDATA[Pré-candidato à Presidência pelo PL, Flávio Bolsonaro enfrenta divisão interna na escolha do vice entre Tereza Cristina e Romeu Zema.]]></description>
+<content:encoded><![CDATA[
+<p>Dois nomes ganham destaque para a vaga de vice na chapa de Flávio Bolsonaro: a senadora Tereza Cristina (PP) e o ex-governador de Minas Gerais Romeu Zema (Novo).</p>
+<p>Aliados próximos de Flávio Bolsonaro e o presidente do PL, Valdemar Costa Neto, apoiam Tereza Cristina, que também é a preferida do Centrão.</p>
+<p>O 'núcleo raiz' do entorno de Flávio Bolsonaro defende que o vice deve ser alguém com lealdade direta ao projeto do pré-candidato, sem vínculos com grupos políticos fortes, apontando Romeu Zema como opção mais viável.</p>
+<p>Romeu Zema, pré-candidato à Presidência pelo Novo, é visto como uma solução mais simples por não carregar um bloco político como o Centrão e por ter sido governador do.</p>
+<p>A resistência a Tereza Cristina decorre de sua ligação com o Centrão e sua participação em uma comitiva que tratou de tarifas nos Estados Unidos, o que teria causado irritação em Eduardo Bolsonaro.</p>
+<p>Tereza Cristina mantém simpatia entre empresários e setores do mercado financeiro, que a consideram um nome moderado e previsível, comparando seu papel ao de José Alencar na eleição de Lula em 2002.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
