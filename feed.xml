@@ -8,23 +8,23 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 12 Apr 2026 16:14:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 17:14:56 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Ator Silvio Matos morre aos 82 anos no Rio de Janeiro]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_2985957a922d4f5204120c04a342e392a95efaf9/</link>
+<title><![CDATA[NASA anuncia nova tecnologia para explorar oceano congelado de Júpiter e ampliar busca por vida]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_933b37d459b440b7fda73f7e65d77cb58a51aa58/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 12 Apr 2026 15:27:57 GMT</pubDate>
+<pubDate>Sun, 12 Apr 2026 16:58:32 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:2985957a922d4f5204120c04a342e392a95efaf9]]></guid>
-<description><![CDATA[O ator, dublador e locutor Silvio Matos morreu neste sábado, 11, no Rio de Janeiro, aos 82 anos.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:933b37d459b440b7fda73f7e65d77cb58a51aa58]]></guid>
+<description><![CDATA[NASA desenvolve tecnologia capaz de operar em temperaturas de até -180 °C e alta radiação para explorar a lua Europa, de Júpiter.]]></description>
 <content:encoded><![CDATA[
-<p>Silvio Matos nasceu em 1943 em São Vicente de Minas e iniciou sua carreira artística nos palcos na década de 1960. Com o tempo, ampliou sua atuação para o rádio e a televisão, consolidando uma trajetória diversificada.</p>
-<p>Ele atuou em novelas da TV Bandeirantes e trabalhou nos bastidores da TV Cultura nos anos 1990, participando da finalização de produções como “Mundo da Lua” (1991) e “Castelo Rá-Tim-Bum” (1994).</p>
-<p>Na dublagem, Matos deu voz a séries clássicas exibidas no Brasil, como “A Feiticeira” e “Viagem ao Fundo do Mar”, sendo reconhecido pelo seu timbre característico.</p>
-<p>No cinema, participou dos filmes “Entre Abelhas” (2014), “Getúlio” (2013) e “Jorge da Capadócia” (2024). Na televisão, integrou produções da TV Globo, incluindo “A Favorita”, “Flor do Caribe”, “Êta Mundo Bom!”, “Novo Mundo”, “Orgulho e Paixão” e “O Tempo Não Para”.</p>
-<p>Nos últimos anos, ganhou novo público com esquetes de humor no canal Parafernalha e manteve presença ativa nas redes sociais.</p>
-<p>A irmã do artista, Denize Lucinda, publicou uma mensagem de despedida, destacando o bom humor e a vida plena de Silvio Matos. O velório será realizado neste domingo, 12, no Crematório da Penitência.</p>
+<p>A NASA, em parceria com o Georgia Tech, criou componentes eletrônicos que resistem a ambientes extremos, como o oceano congelado da lua Europa, de Júpiter, superando limitações atuais em temperaturas muito baixas e alta radiação.</p>
+<p>Os novos chips fabricados com silício-germânio (SiGe) foram testados com sucesso em temperaturas de até -180 °C e sob níveis de radiação 50 vezes superiores ao limite letal para humanos, simulando as condições da lua Europa.</p>
+<p>Essa tecnologia permite que os componentes operem com maior eficiência em frio extremo, devido à redução da interferência no movimento dos elétrons, e apresenta menor presença de óxidos sensíveis à radiação, diminuindo os danos causados.</p>
+<p>Com base nesses chips, foi desenvolvido um sistema de comunicação por rádio compacto e de baixo consumo energético, capaz de transmitir dados de forma estável mesmo sob condições severas.</p>
+<p>A NASA destacou que esse avanço é inédito e que a tecnologia poderá ser usada em futuras missões para mundos oceânicos, servindo como interface para sensores, módulos de pouso, orbitadores e equipamentos de perfuração e exploração subaquática.</p>
+<p>O próximo passo é disponibilizar os projetos para uso comercial e científico, integrando a inovação a futuras missões espaciais voltadas à exploração de ambientes extremos.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
