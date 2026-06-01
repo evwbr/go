@@ -8,21 +8,36 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 31 May 2026 18:38:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 12:38:15 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Previsão do tempo indica temperaturas entre 16°C e 28°C com sol e nebulosidade em Goiás]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_7329cbce14a54aaa33fdb498b43948b662c11ef6/</link>
+<title><![CDATA[Três pessoas morrem em acidentes nas rodovias federais de Goiás no último fim de semana]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_c49d3d3c9c156aa659a5a9b7002076b69c467a05/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 31 May 2026 18:13:20 GMT</pubDate>
+<pubDate>Mon, 01 Jun 2026 12:27:25 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:7329cbce14a54aaa33fdb498b43948b662c11ef6]]></guid>
-<description><![CDATA[A previsão do tempo para os próximos dias em Goiás aponta temperaturas entre 16°C e 28°C, com predomínio de sol e períodos de nebulosidade.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:c49d3d3c9c156aa659a5a9b7002076b69c467a05]]></guid>
+<description><![CDATA[Três pessoas perderam a vida em três acidentes registrados nas rodovias federais que atravessam Goiás nos dias 30 e 31.]]></description>
 <content:encoded><![CDATA[
-<p>Neste domingo, 31, o tempo permanece firme, com sol e aumento de nuvens durante a tarde. As temperaturas variam entre 17°C e 28°C, e a umidade relativa do ar pode alcançar 89%.</p>
-<p>Apesar da estabilidade do tempo, o índice ultravioleta (UV) está em nível extremo, exigindo cuidados redobrados com a exposição ao sol, especialmente entre o fim da manhã e o início da tarde. A qualidade do ar foi classificada como boa, porém o risco para gripe e resfriado está alto.</p>
-<p>A previsão indica ainda presença moderada de mosquitos e possibilidade de frizz devido à umidade do ar. O dia começa com sol entre muitas nuvens e há chance de pancadas de chuva acompanhadas de trovoadas durante a tarde, embora o volume de chuva esperado seja baixo, de apenas 0,1 mm, com 55% de probabilidade de precipitação.</p>
-<p>A semana deve apresentar características típicas da transição entre o fim do período chuvoso e o avanço do tempo seco em Goiás, com manhãs mais amenas, tardes quentes e chuvas rápidas e isoladas.</p>
+<p>Nos dias 30 e 31, as rodovias federais que cortam Goiás registraram 26 acidentes, resultando em três mortes.</p>
+<p>Os acidentes fatais ocorreram na BR-153, em Jaraguá, e também no trecho da BR-153 em Rialma, ambos localizados na região central do estado.</p>
+<p>Em Jaraguá, um veículo de passeio colidiu frontalmente com um caminhão. O condutor do carro, Matheus Donato, de 20 anos, foi a vítima fatal desse acidente.</p>
+<p>Já em Rialma, um automóvel invadiu a pista contrária e colidiu de frente com um ônibus. O motorista Wesley Júnior, de 29 anos, e a passageira Cássia Ferreira dos Santos, de 31, morreram no local.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Três pessoas morrem em dois acidentes na BR-153 em Goiás durante o fim de semana]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_3ee66a51a248fe3debe2d044405fbfe5538ab953/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 01 Jun 2026 11:40:11 GMT</pubDate>
+<category><![CDATA[Goiás]]></category>
+<guid isPermaLink="false"><![CDATA[gomulti:3ee66a51a248fe3debe2d044405fbfe5538ab953]]></guid>
+<description><![CDATA[Dois acidentes na BR-153, em Goiás, resultaram na morte de três pessoas nos municípios de Jaraguá e Rialma durante o último fim de semana.]]></description>
+<content:encoded><![CDATA[
+<p>Na madrugada de sábado (30), um jovem de 20 anos morreu em uma colisão frontal com um caminhão no km 339 da BR-153, em Jaraguá.</p>
+<p>Em Rialma, um carro invadiu a pista contrária e colidiu de frente com um ônibus que seguia no sentido oposto. O motorista do automóvel, de 28 anos, e a passageira, de 31 anos, morreram no local.</p>
+<p>O condutor do carro não possuía Carteira Nacional de Habilitação (CNH) e o teste do bafômetro realizado indicou resultado negativo para ingestão de álcool.</p>
+<p>Entre sexta-feira e domingo, a Polícia Rodoviária Federal registrou 26 acidentes nas rodovias federais de Goiás, com 25 pessoas feridas e três mortes no período.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
