@@ -8,22 +8,22 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sat, 25 Jul 2026 13:38:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 15:38:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Tecnologia aprimora monitoramento e controle da iluminação pública em Aparecida]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_18222034ecc54748ec353d29cef8533e0c068683/</link>
+<title><![CDATA[Auditoria-fiscal resgata 55 trabalhadores em condição análoga à escravidão em Cezarina]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_8e2de8df248ac2172bc969cbc25c91f84061e836/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 25 Jul 2026 12:38:48 GMT</pubDate>
+<pubDate>Sat, 25 Jul 2026 15:03:00 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:18222034ecc54748ec353d29cef8533e0c068683]]></guid>
-<description><![CDATA[Sistema automatizado identifica falhas e ajusta a intensidade da iluminação em diferentes regiões da cidade.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:8e2de8df248ac2172bc969cbc25c91f84061e836]]></guid>
+<description><![CDATA[Uma ação coordenada pela auditoria-fiscal do trabalho resgatou 55 trabalhadores que viviam em condições análogas à escravidão na cidade de Cezarina, Goiás.]]></description>
 <content:encoded><![CDATA[
-<p>A tecnologia instalada na rede de iluminação pública permite identificar automaticamente falhas, acompanhar o funcionamento de cada ponto de luz e controlar a intensidade da iluminação necessidade de diferentes áreas da cidade.</p>
-<p>Quando uma luminária apresenta defeito, o sistema envia um alerta para a central de monitoramento, possibilitando que a equipe responsável seja acionada rapidamente, sem depender da comunicação dos moradores.</p>
-<p>Além disso, a plataforma permite ajustar a intensidade da iluminação horário e o fluxo de pessoas e veículos. Outra funcionalidade disponível é o acionamento do modo intermitente (strobo), utilizado para sinalizar acidentes ou outras ocorrências durante o período noturno.</p>
-<p>O prefeito Leandro Vilela destacou que o sistema possibilita acompanhar toda a rede de iluminação e tornar a operação mais eficiente. Os dados são enviados pela internet para a central de monitoramento, que também pode reduzir a intensidade da iluminação em locais de baixa circulação em determinados horários, sem comprometer a segurança.</p>
-<p>Os pedidos de manutenção da iluminação pública podem ser registrados pelo telefone 0800 680 1000, pelo site Luz de Aparecida ou pelo aplicativo com o mesmo nome.</p>
+<p>Ao chegarem ao local, os trabalhadores enfrentaram atrasos nos pagamentos, ausência de local adequado para as refeições e falta de acesso a água potável.</p>
+<p>Dos 55 trabalhadores resgatados, todos manifestaram o desejo de retornar às suas cidades de origem. Como o responsável pela empresa se recusou a custear o retorno, os fiscais do trabalho adquiriram passagens de ônibus para todos, que embarcaram na Rodoviária de Goiânia no dia 24, com destino a Minas Gerais e Bahia.</p>
+<p>Todos os trabalhadores terão direito ao Seguro-Desemprego do Trabalhador Resgatado, que consiste em seis parcelas de R$ 1.621, destinado às vítimas dessa violação dos direitos humanos. Além disso, os auditores-fiscais lavraram autos de infração na esfera administrativa pelas irregularidades constatadas, incluindo o trabalho análogo à escravidão. O responsável pela empresa poderá ser incluído na Lista Suja do Trabalho Escravo após a conclusão do processo administrativo.</p>
+<p>A operação contou com a participação do Ministério Público do Trabalho, da Polícia Militar de Goiás e da Secretaria de Estado de Desenvolvimento Social. No âmbito judicial, o Ministério Público do Trabalho tomará medidas para garantir o pagamento dos salários, verbas rescisórias e indenizações relacionadas às violações identificadas. Um relatório será encaminhado à Polícia Federal para apurar possíveis crimes de aliciamento, tráfico de pessoas e redução à condição análoga à escravidão.</p>
+<p>Essa iniciativa integra o trabalho da Auditoria-Fiscal do Trabalho no combate ao trabalho escravo contemporâneo e na proteção dos direitos fundamentais dos trabalhadores brasileiros, utilizando uma ferramenta lançada pela Secretaria de Inspeção do Trabalho em parceria com a Organização Internacional do Trabalho.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
