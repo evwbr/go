@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/go/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/go/</link>
 <description>Notícias de Goiás (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 13 Aug 2026 19:38:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 14:38:08 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Servidores administrativos da Educação de Goiânia aprovam greve a partir de segunda-feira]]></title>
-<link>https://evwbr.github.io/go/p/gomulti_774c5bc4a87ada96fc8e950be406c5879d624d30/</link>
+<title><![CDATA[Inmet alerta para baixa umidade do ar em Goiás e tempo estável no Centro-Oeste]]></title>
+<link>https://evwbr.github.io/go/p/gomulti_dbc8b66508e4bf8473286872d53be4d1c65d52e7/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 13 Aug 2026 18:56:28 GMT</pubDate>
+<pubDate>Fri, 14 Aug 2026 13:45:39 GMT</pubDate>
 <category><![CDATA[Goiás]]></category>
-<guid isPermaLink="false"><![CDATA[gomulti:774c5bc4a87ada96fc8e950be406c5879d624d30]]></guid>
-<description><![CDATA[Os servidores administrativos da rede municipal de Educação de Goiânia decidiram entrar em greve a partir da próxima segunda-feira, 17.]]></description>
+<guid isPermaLink="false"><![CDATA[gomulti:dbc8b66508e4bf8473286872d53be4d1c65d52e7]]></guid>
+<description><![CDATA[A umidade relativa do ar deve variar entre 12% e 20% em Goiás, com alerta para todas as cidades do estado devido ao tempo seco.]]></description>
 <content:encoded><![CDATA[
-<p>A paralisação foi aprovada em assembleia realizada no auditório da Assembleia Legislativa de Goiás (Alego), após a categoria rejeitar uma proposta apresentada pela Prefeitura de Goiânia.</p>
-<p>Um dos principais pontos de discordância está no prazo previsto para a aplicação das mudanças, que se estenderia até 2030, ultrapassando o mandato da atual gestão municipal.</p>
-<p>A proposta da prefeitura também estabelece percentuais de progressão horizontal entre 1,6% e 2% e de progressão vertical de 8% a 12%.</p>
-<p>As negociações entre os servidores e a administração municipal ocorreram ao longo do ano, incluindo reuniões nos meses de julho e agosto. A categoria tentou alterar o cronograma para garantir que as medidas fossem implementadas ainda durante a atual gestão, mas não houve acordo.</p>
-<p>Entre as reivindicações estão a convocação de candidatos aprovados em concurso público que aguardam nomeação e a realização de processo seletivo para reforçar o quadro de funcionários.</p>
-<p>A Prefeitura de Goiânia informou que não recebeu o ofício do sindicato comunicando oficialmente a greve.</p>
+<p>O Instituto Nacional de Meteorologia (Inmet) emitiu alerta para baixos índices de umidade relativa do ar em Goiás, que podem causar ressecamento da pele, desconforto nos olhos, boca e nariz, além de aumentar o risco de incêndios florestais. A previsão indica que a umidade ficará entre 12% e 20% em todas as cidades do estado.</p>
+<p>O tempo permanece estável em grande parte do Centro-Oeste, com temperaturas elevadas no interior da região. Para minimizar os efeitos do tempo seco, o Inmet recomenda que a população beba bastante líquido, evite atividades físicas nos períodos mais quentes e secos, não se exponha ao sol nas horas de maior calor, utilize hidratante para a pele e umidifique os ambientes.</p>
+<p>No Norte do país, há previsão de pancadas de chuva e trovoadas isoladas em áreas do Amazonas, Roraima e Pará.</p>
+<p>No Nordeste, o calor predomina, especialmente no interior, com máxima prevista de 37°C em Teresina. No Sudeste, áreas do litoral podem registrar chuva isolada, enquanto no Sul do país as temperaturas devem ser mais baixas, com instabilidades.</p>
+<p>O Inmet mantém alerta amarelo para tempestades no sul de São Paulo, na divisa com o Paraná. No Paraná e em Santa Catarina, o alerta é laranja para tempestades, com possibilidade de fortes rajadas de vento, microexplosões e tornados.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
